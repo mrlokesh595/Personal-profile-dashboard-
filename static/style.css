@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f6fa;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.dashboard {
+    background: white;
+    max-width: 600px;
+    margin: 40px auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    padding: 30px;
+}
+
+.profile-pic {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+.bio {
+    color: #555;
+    font-style: italic;
+}
+
+.section {
+    margin-top: 20px;
+    text-align: left;
+}
+
+.section h2 {
+    color: #2980b9;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 5px;
+}
+
+.section ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.section li {
+    background: #ecf0f1;
+    margin: 5px 0;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.contact p {
+    margin: 5px 0;
+}
