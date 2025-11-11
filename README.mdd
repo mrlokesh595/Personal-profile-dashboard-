@@ -1,0 +1,15 @@
+# 🧑‍💻 Personal Profile Dashboard
+
+A simple **Flask-based personal profile dashboard** built with HTML, CSS, and Python.
+
+## 🚀 Features
+- Displays profile picture, bio, and contact info
+- Shows list of skills
+- Responsive and clean design
+- Easy to customize
+
+## 🛠️ Setup
+
+### 1️⃣ Install dependencies
+```bash
+pip install -r requirements.txt
